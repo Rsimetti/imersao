@@ -1,18 +1,18 @@
 ## Materiais no GitHub atualizados e todas aulas disponíveis para você baixar e praticar! 👩🏻‍💻📊
 
-## [1/4] - DATA SCIENCE DO DIA A DIA - SEU PRIMEIRO DASHBOARD - [Power BI] 📊
-▶️ (https://youtu.be/DiT4DV7tZAk)
+[1/4] - DATA SCIENCE DO DIA A DIA - SEU PRIMEIRO DASHBOARD - [Power BI] 📊
+▶️ https://youtu.be/DiT4DV7tZAk
 
 [2/4] - DATA SCIENCE PARA MATCH DE CVs COM VAGAS DE EMPREGO - [Python] 🐍
-▶️ (https://youtu.be/Zla9mukx_mc)
+▶️ https://youtu.be/Zla9mukx_mc
 
 [3/4] - MACHINE LEARNING: DO ZERO AO DEPLOY - [Python] 📈
-▶️ (https://youtu.be/WKXd5WCFhnE)
+▶️ https://youtu.be/WKXd5WCFhnE
 
 [4/4] - PREVISÃO DE FRAUDES EM CARTÕES DE CRÉDITO - [Python]
-▶️ (https://youtu.be/HLYhZYdNapU)
+▶️ https://youtu.be/HLYhZYdNapU
 
-AULA BÔNUS: [STREAMLIT DO ZERO] (https://www.youtube.com/watch?v=q--yL_EIukY&t=12s(
+AULA BÔNUS: [STREAMLIT DO ZERO] https://www.youtube.com/watch?v=q--yL_EIukY&t=12s
 
 
 

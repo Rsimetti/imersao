@@ -15,7 +15,6 @@
 AULA BÔNUS: [STREAMLIT DO ZERO] https://www.youtube.com/watch?v=q--yL_EIukY&t=12s
 
 
-
 ⚠️ Todo conteúdo da Imersão estará disponível até a próxima sexta-feira, depois só quem terá acesso serão os membros da Comunidade FLAI.
 
 🛑 Caso queira ter acesso a todos os projetos, aulas AO VIVO e + 50h de conteúdos para você aprender do zero, as inscrições para a Curso FLAI - Dominando Data Science, estão abertas!

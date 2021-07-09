@@ -19,6 +19,6 @@ AULA BÔNUS: [STREAMLIT DO ZERO] https://www.youtube.com/watch?v=q--yL_EIukY&t=1
 
 🛑 Caso queira ter acesso a todos os projetos, aulas AO VIVO e + 50h de conteúdos para você aprender do zero, as inscrições para a Curso FLAI - Dominando Data Science, estão abertas!
 
-[INSCREVA-SE]: https://www.flai.com.br/dominando-data-science/
+[INSCREVA-SE]: (https://www.flai.com.br/dominandodatascience/)
 
 Qualquer dúvida, só falar aqui! 
